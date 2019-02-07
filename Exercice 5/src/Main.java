@@ -14,8 +14,8 @@ public class Main {
                 System.out.println("Voulez-vous réessayez ? (O/N)");
                 reponse = sc.next().charAt(0);
             }
-            System.out.println("Merci, au revoir !");
         }
+        System.out.println("Merci, au revoir !");
     }
 }
 

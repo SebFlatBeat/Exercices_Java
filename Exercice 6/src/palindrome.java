@@ -8,7 +8,7 @@ public class palindrome {
         char reponse = 'O';
         Scanner in = new Scanner(System.in);
         while (reponse == 'O') {
-        System.out.println("Entrer un mot et nous allons vérifier si celui-ci est un palindrome : ");
+        System.out.println("Entrez un mot et nous allons vérifier si celui-ci est un palindrome : ");
         original = in.next();
 
         int length = original.length();

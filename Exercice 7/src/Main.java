@@ -13,7 +13,7 @@ public class Main {
                 bigWord = word[i];
             }
         }
-        System.out.println(bigWord);
+        System.out.println("le mot le plus long est : " +bigWord);
     }
 }
 
